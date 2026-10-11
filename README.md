@@ -64,7 +64,7 @@ Liderança • Tech Lead • Gestão Ágil • Gerenciamento de Projetos • Scr
 
 - LinkedIn: [linkedin.com/in/lucasventura01](https://linkedin.com/in/lucasventura01)
 - E-mail: [lucasvms01@gmail.com](mailto:lucasvms01@gmail.com)
-- Portfólio: `https://lucasvms01.github.io` *(após publicação)*
+- Portfólio: `https://lucasvms01.github.io`
 
 ---
 
