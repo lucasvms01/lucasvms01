@@ -60,11 +60,11 @@ UNINOVE | Concluído em 2020
 
 Liderança • Tech Lead • Gestão Ágil • Gerenciamento de Projetos • Scrum • Arquitetura de Software • DevOps • Inteligência Artificial • Git e GitHub • Cybersecurity • Azure Fundamentals
 
-### 🌐 Contato
+### Contato
 
 - LinkedIn: [linkedin.com/in/lucasventura01](https://linkedin.com/in/lucasventura01)
 - E-mail: [lucasvms01@gmail.com](mailto:lucasvms01@gmail.com)
-- Portfólio: `https://lucasvms01.github.io`
+- Portfólio: https://lucasvms01.github.io
 
 ---
 
