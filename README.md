@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas Ventura 👋
+# Olá, eu sou o Lucas Ventura
 
 ## Liderança Técnica • Tech Lead • Full Stack • Projetos • IA & Automação
 
@@ -6,7 +6,7 @@ Profissional de Tecnologia com mais de 6 anos de experiência em desenvolvimento
 
 Atualmente atuo como Desenvolvedor Full Stack e referência técnica de uma equipe multidisciplinar, combinando atuação hands-on com liderança, gestão de projetos, relacionamento com clientes e melhoria contínua de processos.
 
-### 💼 Atuação
+### Atuação
 
 - Liderança técnica e apoio a equipes multidisciplinares
 - Desenvolvimento Full Stack
@@ -16,7 +16,7 @@ Atualmente atuo como Desenvolvedor Full Stack e referência técnica de uma equi
 - Integrações, automações e soluções com IA generativa
 - Relacionamento técnico e consultivo com clientes
 
-### 🧩 Tecnologias
+### Tecnologias
 
 **Desenvolvimento**
 
@@ -38,7 +38,7 @@ Atualmente atuo como Desenvolvedor Full Stack e referência técnica de uma equi
 
 `Scrum` `Jira` `Trello` `Grafana` `Datadog` `Movidesk` `SLA` `Incident Management`
 
-### 🚀 Experiência em destaque
+### Experiência em destaque
 
 - Liderança técnica de equipe multidisciplinar com profissionais de Desenvolvimento, QA e UX
 - Acompanhamento simultâneo de 4 a 5 projetos
@@ -48,7 +48,7 @@ Atualmente atuo como Desenvolvedor Full Stack e referência técnica de uma equi
 - Participação em projetos de migração e desenvolvimento de soluções em ambiente de COE
 - Atuação ponta a ponta em análise, desenho, documentação, estimativa e implementação de soluções
 
-### 🎓 Formação
+### Formação
 
 **MBA em Engenharia de Software**  
 FIAP | Concluído em 2026
@@ -56,7 +56,7 @@ FIAP | Concluído em 2026
 **Tecnologia em Análise e Desenvolvimento de Sistemas**  
 UNINOVE | Concluído em 2020
 
-### 📚 Formação complementar
+### Formação complementar
 
 Liderança • Tech Lead • Gestão Ágil • Gerenciamento de Projetos • Scrum • Arquitetura de Software • DevOps • Inteligência Artificial • Git e GitHub • Cybersecurity • Azure Fundamentals
 
